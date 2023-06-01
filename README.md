@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsnipes&show_icons=true&locale=en&count_private=true" alt="alexsnipes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsnipes&show_icons=true&locale=en&count_private=true&hide=contribs" alt="alexsnipes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexsnipes&" alt="alexsnipes" /></p>
 <p>
