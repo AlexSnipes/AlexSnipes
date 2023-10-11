@@ -31,7 +31,7 @@ Greetings! I'm a seasoned developer with over 15 years of hands-on experience in
 </ul>
 <h2>Infrastructure and Deployment</h2>
 <ul>
-  <li>Proficient in handling infrastructures and deployments on various platforms, including AWS, DigitalOcean, Firebase, and more.</li>
+  <li>Proficient in handling infrastructures and deployments on various platforms, including AWS, DigitalOcean Droplets, Vercel, Firebase, and more.</li>
 </ul>
 <h2>Passion for Quality</h2>
 <ul>
