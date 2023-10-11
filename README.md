@@ -21,12 +21,24 @@ Greetings! I'm a seasoned developer with over 15 years of hands-on experience in
 </ul>
  <h2>Database Proficiency</h2>
 <ul>
-<li>MySQL & MongoDB: Expertise in managing relational and NoSQL databases, ensuring data integrity and scalability.
-Infrastructure and Deployment:</li>
+<li><strong>MySQL & MongoDB</strong>: Expertise in managing relational and NoSQL databases, ensuring data integrity and scalability.</li>
+  </ul>
+ <h2>Blockchain and Web3</h2>
+
+<ul>
+  <li>Proficient in Web3 technologies with a focus on Ethereum.</li>
+<li>Experienced in developing contracts in Solidity for Ethereum projects, including Crypto projects like NFTs.</li>
+<li>Utilized platforms such as Subgraph for efficient data querying and indexing.</li>
 </ul>
-Proficient in handling infrastructures and deployments on various platforms, including AWS, DigitalOcean, Firebase, and more.
+<h2>Infrastructure and Deployment</h2>
+
+<ul>
+<li>Proficient in handling infrastructures and deployments on various platforms, including AWS, DigitalOcean, Firebase, and more.</li>
+  </ul>
 <h2>Passion for Quality</h2>
-Committed to delivering high-quality code with a keen eye for detail and a year of dedicated experience in unit testing.
+<ul>
+<li>Committed to delivering high-quality code with a keen eye for detail and a year of dedicated experience in unit testing.</li>
+  </ul>
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
