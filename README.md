@@ -4,7 +4,7 @@
 <p>
 🚀 Experienced Developer with 15+ Years in Application Development
 
-Greetings! I'm a seasoned developer with over 15 years of hands-on experience in crafting robust and innovative applications. My journey through the dynamic landscape of software development has equipped me with a versatile skill set and a passion for delivering high-quality solutions.
+Greetings! I'm a seasoned software developer with over 15 years of hands-on experience in crafting robust and innovative applications. My journey through the dynamic landscape of software development has equipped me with a versatile skill set and a passion for delivering high-quality solutions.
 
   
 </p>
