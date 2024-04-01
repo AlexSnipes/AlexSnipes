@@ -6,37 +6,6 @@
 
 Greetings! I'm a seasoned developer with over 15 years of hands-on experience in crafting robust and innovative applications. My journey through the dynamic landscape of software development has equipped me with a versatile skill set and a passion for delivering high-quality solutions.
 
-<h2>Technological Expertise</h2>
-
-<ul>
-  <li><strong>TypeScript & JavaScript</strong>: Proficient in the language of the web, enabling dynamic and interactive user experiences.</li>
-  <li><strong>ReactJS</strong>: Adept at building responsive and intuitive user interfaces for modern web applications.</li>
-  <li><strong>PHP</strong>: Extensive experience in server-side scripting and high-performance computing.</li>
-</ul>
-<h2>Frameworks Mastery</h2>
-<ul>
-  <li><strong>NestJS</strong>: Diving deep into NestJS, with a strong focus on unit testing for creating reliable and maintainable code.</li>
-  <li><strong>Symfony, Slim, Phalcon & Laravel (PHP)</strong>: Well-versed in popular PHP frameworks, ensuring efficient and scalable backend development.</li>
-  <li><strong>NodeJS Express</strong>: Leveraging the power of NodeJS for building robust server-side applications.</li>
-</ul>
- <h2>Database Proficiency</h2>
-<ul>
-  <li><strong>MySQL & MongoDB</strong>: Expertise in managing relational and NoSQL databases, ensuring data integrity and scalability.</li>
-</ul>
- <h2>Blockchain and Web3</h2>
-<ul>
-  <li>Proficient in Web3 technologies with a focus on Ethereum.</li>
-  <li>Experienced in developing contracts in Solidity for Ethereum projects, including Crypto projects like NFTs.</li>
-  <li>Utilized platforms such as Subgraph for efficient data querying and indexing.</li>
-</ul>
-<h2>Infrastructure and Deployment</h2>
-<ul>
-  <li>Proficient in handling infrastructures and deployments on various platforms, including AWS, DigitalOcean Droplets, Vercel, Firebase, and more.</li>
-</ul>
-<h2>Passion for Quality</h2>
-<ul>
-  <li>Committed to delivering high-quality code with a keen eye for detail and a year of dedicated experience in unit testing.</li>
-</ul>
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
