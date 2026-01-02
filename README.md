@@ -8,6 +8,9 @@
                 I have solid experience in JavaScript/TypeScript (Node.js, NestJS, React, Next.js) and PHP (Symfony, Laravel, Phalcon), with a focus on architectural design, code quality, performance, and maintainability. I’ve worked on integrating external services such as payment gateways, authentication systems, CRMs, and ERPs, applying best practices like TDD and code reviews.
               </p>
               <p>
+                In addition, I have experience developing Web3 applications such as NFT marketplaces, designing and implementing smart contracts in Solidity, and integrating decentralized services like IPFS and The Graph (Subgraph) for data indexing and retrieval.
+              </p>
+              <p>
                 Currently, I’m studying Aerospace Engineering, where I’m applying my software development skills to build technical projects related to physics and simulations, especially in areas such as rocketry and satellite visualization.
               </p>
 <h3 align="left">Languages and Tools:</h3>
