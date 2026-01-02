@@ -2,9 +2,9 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alexsnipes&" alt="alexsnipes" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSnipes&layout=compact&langs_count=5"/></p>
 <p>
-🚀 Experienced Developer with 15+ Years in Application Development
-
-Greetings! I'm a seasoned software developer with over 15 years of hands-on experience in crafting robust and innovative applications. My journey through the dynamic landscape of software development has equipped me with a versatile skill set and a passion for delivering high-quality solutions.
+I’m a Software Developer with more than 15 years of experience designing and building web applications and scalable APIs, working in both backend and full-stack roles. Throughout my career, I’ve worked on high-traffic products, e-commerce platforms, multi-tenant systems, and microservices-based architectures, collaborating closely with product, technical, and business teams.
+I have solid experience in JavaScript/TypeScript (Node.js, NestJS, React, Next.js) and PHP (Symfony, Laravel, Phalcon), with a focus on architectural design, code quality, performance, and maintainability. I’ve worked on integrating external services such as payment gateways, authentication systems, CRMs, and ERPs, applying best practices like TDD and code reviews.
+Currently, I’m studying Aerospace Engineering, where I’m applying my software development skills to build technical projects related to physics and simulations, especially in areas such as rocketry and satellite visualization.
 
   
 </p>
